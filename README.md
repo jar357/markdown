@@ -38,4 +38,3 @@ __Bold stuff__
 ```javascript
  var s = syntax highlighting
  ```
- ![stock photo I saved]()
