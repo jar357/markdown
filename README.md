@@ -33,8 +33,9 @@ __Bold stuff__
 
 ![image saved on the internet I think](https://images-gmi-pmc.edge-generalmills.com/612d8afe-a787-45bd-9276-f4d9e23d202d.jpg)
 
-[link to other markdown page](https://github.com/jar357/markdown/edit/master/other%20markdown%20page)
+! [link to other markdown page](https://github.com/jar357/markdown/blob/master/other%20markdown%20page)
 
 ```javascript
  var s = syntax highlighting
  ```
+ ![stock photo I saved]()
