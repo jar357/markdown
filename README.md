@@ -19,7 +19,7 @@ __Bold stuff__
 2. Is
 3. The
 4. Numbered
-5. List.
+5. List
 
 ~~strike trough text~~
 
@@ -31,12 +31,11 @@ __Bold stuff__
 
 ***
 
-[This is the link between markdown pages]()
+![image saved on the internet I think](https://images-gmi-pmc.edge-generalmills.com/612d8afe-a787-45bd-9276-f4d9e23d202d.jpg)
 
-![alt text](https://images-gmi-pmc.edge-generalmills.com/612d8afe-a787-45bd-9276-f4d9e23d202d.jpg)
-
-! [alt text]()
+! [link to other markdown page](https://github.com/jar357/markdown/edit/master/other%20markdown%20page)
 
 ```javascript
  var s = syntax highlighting
  ```
+ ![stock photo I saved]()
