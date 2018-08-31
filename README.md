@@ -41,4 +41,4 @@ __Bold stuff__
   <p>This is a paragraph</p>
 </body>
  ```
- ![stock photo I saved I think](https://www.teachprivacy.com/wp-content/uploads/Hacker1.jpg)
+ ![stock photo I saved I think](Hacker1.jpg)
