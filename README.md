@@ -35,7 +35,7 @@ __Bold stuff__
 
 [source for image above](https://www.pillsbury.com/recipes/easy-cherry-pie/fdad0859-2606-4553-a2e4-335818c04bc8)
 
-[link to other markdown page](https://github.com/jar357/markdown/blob/master/other%20markdown%20page)
+[link to other markdown page](https://github.com/jar357/markdown/blob/master/other%20markdown%20page.md)
 
 ```html
 <body>
