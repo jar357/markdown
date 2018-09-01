@@ -32,6 +32,7 @@ __Bold stuff__
 ***
 
 ![image saved on the internet I think](https://images-gmi-pmc.edge-generalmills.com/612d8afe-a787-45bd-9276-f4d9e23d202d.jpg)
+
 [source for image above](https://www.pillsbury.com/recipes/easy-cherry-pie/fdad0859-2606-4553-a2e4-335818c04bc8)
 
 [link to other markdown page](https://github.com/jar357/markdown/blob/master/other%20markdown%20page)
@@ -43,4 +44,5 @@ __Bold stuff__
 </body>
  ```
  ![stock photo I saved I think](https://www.teachprivacy.com/wp-content/uploads/Hacker1.jpg)
+
 [source for image above](https://teachprivacy.com/the-funniest-hacker-stock-photos-2-0/)
